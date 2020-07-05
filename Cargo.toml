@@ -22,5 +22,4 @@ path = "src/analyze.rs"
 encoding = "0.2"
 
 [dev-dependencies]
-doc-comment = "0.3"
 lazy_static = "1.2.0"
